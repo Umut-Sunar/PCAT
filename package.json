@@ -1,0 +1,26 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT photo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umut-Sunar/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app"
+  ],
+  "author": "Dogan Umut Sunar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umut-Sunar/PCAT/issues"
+  },
+  "homepage": "https://github.com/Umut-Sunar/PCAT#readme",
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
+}
